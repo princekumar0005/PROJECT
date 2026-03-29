@@ -91,3 +91,5 @@ else:
     else:
 
         print("You win!") 
+# small problem 
+# If user enters wrong input like "S" or "x", your code will crash ❌

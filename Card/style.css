@@ -1,0 +1,59 @@
+ body {
+     background-color: grey;
+     display: flex;
+     font-family: "Baloo Bhai 2", serif;
+     margin: 44px;
+ }
+
+ .card {
+     background-color: antiquewhite;
+     width: 300px;
+     height: 90vh;
+     border-radius: 20px;
+     padding: 5px;
+     margin: 5px
+ }
+
+ .image {
+     margin: 5px;
+     padding: 5px;
+ }
+
+ .image img {
+     border-radius: 20px;
+
+ }
+
+ .capsules {
+     word-spacing: 40px;
+     padding: 5px;
+     margin: 5px;
+     height: 12px;
+
+ }
+
+ .link {
+     text-align: center;
+     text-transform: capitalize;
+
+
+ }
+
+ .link a {
+     border: 2px solid lightblue;
+     border-radius: 20px;
+     border-bottom-style: solid;
+     border-width: 10px;
+     background-color: lightblue;
+     text-decoration: none;
+ }
+
+ .para {
+     margin: 6px;
+     padding: auto;
+ }
+
+ h1 {
+     text-align: center;
+     height: 32px;
+ }
